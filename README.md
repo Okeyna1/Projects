@@ -12,18 +12,18 @@ MeriCast Retail Group is a multinational consumer goods company operating across
 
 This analysis was performed using **Microsoft Excel**.
 
-![Anchor-Hold Dashboard](dashboards/Anchor-Hold.PNG)
+![MeriCastRetailGroup](Dashboard/MeriCastRetailGroup.png)
 
-[View Project](https://dinmahbub.github.io/projects/anchorhold.html)
+[View Project](https://okeyna1.github.io/Projects/MeriCast.html)
 
 ---
 
-### 2. Montana Express
+### 2. Fratellos Front Cafe
 
-Montana Express is a fast-growing virtual café chain specializing in a wide variety of drinks, snacks, and light meals. Over the past few years, the company has experienced impressive growth but faces increasing challenges in meeting customer demand and optimizing operational performance.  
+Fratellos Front Cafe is a growing, multi-location café that offers drinks, snacks, and light meals. While the business has seen strong sales growth over the past year, this growth has also created operational strain. Differences in customer behavior and performance across locations make it challenging to manage inventory, staffing, and menu decisions consistently across the city.  
 
 This analysis was performed using **Microsoft Excel**.
 
-![Montana Express Dashboard](dashboards/Montana%20Express.PNG)
+![FratellosFrontCafe](Dashboard/Cafe.jpg)
 
-[View Project](https://dinmahbub.github.io/projects/montana.html)
+[View Project](https://okeyna1.github.io/Projects/FratellosFrontCafe.html)
